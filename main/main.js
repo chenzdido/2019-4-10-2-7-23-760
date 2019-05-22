@@ -1,6 +1,6 @@
 module.exports = function main(inputs) {
     // write your code here...
-    var price=0;
+        var price=0;
 	price=inputs.parkTime*0.25+6;
 	dis=inputs.distance;
 	if(dis>2&&dis<=8)
